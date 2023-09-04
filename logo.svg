@@ -1,4 +1,6 @@
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="150" cy="100" r="50" stroke="yellow" stroke-width="2" fill="none" />
-        <text x="150" y="100" text-anchor="middle" style="fill:green;font-size:22">lol</text>
-        </svg>
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="150" cy="100" r="50" stroke="pink" stroke-width="2" fill="none" />
+      <text x="150" y="100" text-anchor="middle" style="fill:red;font-size:22">tes</text>
+    </svg>
+    
